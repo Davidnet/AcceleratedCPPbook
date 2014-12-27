@@ -15,6 +15,7 @@ int main()
 
 	const std::string first(second.size(), '*');
 
+	// creating the entry
 	std::cout << std::endl;
 	std::cout << first << std::endl;
 	std::cout << second << std::endl;
